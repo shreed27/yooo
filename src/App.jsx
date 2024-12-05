@@ -72,7 +72,7 @@ function App() {
           {chatHistory.length === 0 ? (
             <div className="h-full flex flex-col items-center justify-center text-center p-6">
               <div className="bg-blue-50 rounded-xl p-8 max-w-2xl">
-                <h2 className="text-2xl font-bold text-blue-600 mb-4">Welcome to Chat AI! 👋</h2>
+                <h2 className="text-2xl font-bold text-blue-600 mb-4">Welcome to Money Miner! 👋</h2>
                 <p className="text-gray-600 mb-4">
                   I'm here to answer all your doubt about finance:
                 </p>
