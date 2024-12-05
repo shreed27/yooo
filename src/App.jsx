@@ -59,7 +59,7 @@ function App() {
              rel="noopener noreferrer"
              className="block">
             <h1 className="text-4xl font-bold text-blue-500 hover:text-blue-600 transition-colors">
-              Chat AI
+              MoneyMiner
             </h1>
           </a>
         </header>
@@ -74,20 +74,20 @@ function App() {
               <div className="bg-blue-50 rounded-xl p-8 max-w-2xl">
                 <h2 className="text-2xl font-bold text-blue-600 mb-4">Welcome to Chat AI! 👋</h2>
                 <p className="text-gray-600 mb-4">
-                  I'm here to help you with anything you'd like to know. You can ask me about:
+                  I'm here to answer all your doubt about finance:
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
                   <div className="bg-white p-4 rounded-lg shadow-sm">
-                    <span className="text-blue-500">💡</span> General knowledge
+                    <span className="text-blue-500">💡</span> Stock reports
                   </div>
                   <div className="bg-white p-4 rounded-lg shadow-sm">
                     <span className="text-blue-500">🔧</span> Technical questions
                   </div>
                   <div className="bg-white p-4 rounded-lg shadow-sm">
-                    <span className="text-blue-500">📝</span> Writing assistance
+                    <span className="text-blue-500">📝</span> Market analysis
                   </div>
                   <div className="bg-white p-4 rounded-lg shadow-sm">
-                    <span className="text-blue-500">🤔</span> Problem solving
+                    <span className="text-blue-500">🤔</span> Market trends
                   </div>
                 </div>
                 <p className="text-gray-500 mt-6 text-sm">
